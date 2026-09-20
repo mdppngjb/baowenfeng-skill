@@ -2,11 +2,10 @@
 
 # **大帅逼**
 
-这么帅的班主任谁不喜欢?
+## 这么帅的班主任谁不喜欢?
 
-[![BWF](https://files.deepseeksvc.com/api/file?file_id=cf4fb85a-6ada-4cc4-aaed-b1ff32434d00&state=CQY00Lrv5Cse6O5zNKH6B5hSNvvF2BuIrgxcQLb2Q0x1C0UUKy9FoMhpkFdnbAOF5znOyOeEBOqehaxhzVv4W7Sdgl%2FuJo1H5fmhMNca5P7%2FCeUZTwxcZkMDs8cqf5nlT8PxRB%2B4Xcf4QoV7y0KUnMMEpO7PCX8PzG8vybcXooZeJyin6s4PlebWrrNMR4%2B4R%2FJllUMMpINiuiidKMUZFa7gcuT1ijKFwLtkHy2bagn9zTQWMOh0lyr%2FzPNYmIji7uJuIlcXmsVzV%2Fbsoprv51y3ob%2BNHyX6fso5Ht3l8aGw2u%2FpLlnE86OxlyqF7SBOxLUnzzF1M%2FuKkHMTEaBhWHSdlGVR4Kw8e4ieThD2yJqH6nL5mxeMH1HdwJ%2BeQDKbqg%3D%3D&ty=p)](www.prohub.com)
-
-**二中出大名了**
+[![BWF](https://files.deepseeksvc.com/api/file?file_id=cf4fb85a-6ada-4cc4-aaed-b1ff32434d00&state=CQY00Lrv5Cse6O5zNKH6B5hSNvvF2BuIrgxcQLb2Q0x1C0UUKy9FoMhpkFdnbAOF5znOyOeEBOqehaxhzVv4W7Sdgl%2FuJo1H5fmhMNca5P7%2FCeUZTwxcZkMDs8cqf5nlT8PxRB%2B4Xcf4QoV7y0KUnMMEpO7PCX8PzG8vybcXooZeJyin6s4PlebWrrNMR4%2B4R%2FJllUMMpINiuiidKMUZFa7gcuT1ijKFwLtkHy2bagn9zTQWMOh0lyr%2FzPNYmIji7uJuIlcXmsVzV%2Fbsoprv51y3ob%2BNHyX6fso5Ht3l8aGw2u%2FpLlnE86OxlyqF7SBOxLUnzzF1M%2FuKkHMTEaBhWHSdlGVR4Kw8e4ieThD2yJqH6nL5mxeMH1HdwJ%2BeQDKbqg%3D%3D&ty=p)](https://github.com/alchaincyf/nuwa-skill)
+**二中出大名,简直无敌了**
 
 </div>
 
@@ -17,7 +16,7 @@
 
 ## markdown文件
 - 由[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)蒸馏制作
-- 感谢bilibili「花叔」
+- 感谢bilibili【花叔】
 
 ## （笑了）
 - 欢迎大家来与我的班主任聊天，他是一个很好的人（也许吧....）
